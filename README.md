@@ -12,4 +12,4 @@ MyBatis-Plus 的示例代码
 - 通过`@TableLogic`注解实现逻辑删除
 
 ## 参考文档
-* [MyBatis-Plus官方文档(https://mp.baomidou.com/guide/)
+* [MyBatis-Plus官方文档](https://mp.baomidou.com/guide/)
